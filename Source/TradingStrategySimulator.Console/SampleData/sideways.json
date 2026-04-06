@@ -1,0 +1,46 @@
+{
+  "name": "Sideways Market",
+  "description": "A range-bound market with no clear trend, used to demonstrate how frequent trading may produce limited gains and how transaction costs can erode profitability.",
+  "priceSeries": [
+    {
+      "date": "2026-01-02",
+      "price": 100.0
+    },
+    {
+      "date": "2026-01-03",
+      "price": 101.0
+    },
+    {
+      "date": "2026-01-04",
+      "price": 99.5
+    },
+    {
+      "date": "2026-01-05",
+      "price": 100.5
+    },
+    {
+      "date": "2026-01-06",
+      "price": 99.8
+    },
+    {
+      "date": "2026-01-07",
+      "price": 100.2
+    },
+    {
+      "date": "2026-01-08",
+      "price": 99.9
+    },
+    {
+      "date": "2026-01-09",
+      "price": 100.7
+    },
+    {
+      "date": "2026-01-10",
+      "price": 99.7
+    },
+    {
+      "date": "2026-01-11",
+      "price": 100.1
+    }
+  ]
+}

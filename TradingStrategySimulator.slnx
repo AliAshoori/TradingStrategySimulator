@@ -1,0 +1,11 @@
+<Solution>
+  <Folder Name="/Source/">
+    <Project Path="Source/TradingStrategySimulator.Application/TradingStrategySimulator.Application.csproj" Id="903f690b-0d0e-4935-88f6-870ecacadfdf" />
+    <Project Path="Source/TradingStrategySimulator.Console/TradingStrategySimulator.Console.csproj" Id="e7627d17-e6dc-4eb2-a614-269558cb3215" />
+    <Project Path="Source/TradingStrategySimulator.Domain/TradingStrategySimulator.Domain.csproj" Id="11418e8b-8314-4b8d-ac1e-210a063e3b02" />
+  </Folder>
+  <Folder Name="/Tests/">
+    <Project Path="Tests/TradingStrategySimulator.Application.Tests/TradingStrategySimulator.Application.Tests.csproj" Id="44a3cacb-b3de-48eb-bcb7-f34a9fe880af" />
+    <Project Path="Tests/TradingStrategySimulator.Domain.Tests/TradingStrategySimulator.Domain.Tests.csproj" Id="439e0130-29e8-4063-b2a9-63414af6bb7e" />
+  </Folder>
+</Solution>

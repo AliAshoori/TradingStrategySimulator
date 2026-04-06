@@ -1,0 +1,46 @@
+{
+  "name": "Trending Down Market",
+  "description": "A consistently declining market used to highlight the limitations of long-only strategies and to observe how execution costs amplify losses in unfavourable conditions.",
+  "priceSeries": [
+    {
+      "date": "2026-01-02",
+      "price": 115.0
+    },
+    {
+      "date": "2026-01-03",
+      "price": 113.0
+    },
+    {
+      "date": "2026-01-04",
+      "price": 111.5
+    },
+    {
+      "date": "2026-01-05",
+      "price": 109.0
+    },
+    {
+      "date": "2026-01-06",
+      "price": 107.0
+    },
+    {
+      "date": "2026-01-07",
+      "price": 105.5
+    },
+    {
+      "date": "2026-01-08",
+      "price": 103.0
+    },
+    {
+      "date": "2026-01-09",
+      "price": 101.0
+    },
+    {
+      "date": "2026-01-10",
+      "price": 99.5
+    },
+    {
+      "date": "2026-01-11",
+      "price": 97.0
+    }
+  ]
+}

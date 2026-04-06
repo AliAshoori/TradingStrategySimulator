@@ -1,0 +1,46 @@
+{
+  "name": "Whipsaw Market",
+  "description": "A rapidly alternating up-and-down market that creates frequent false signals, ideal for demonstrating the impact of cooldown constraints and the risks of overtrading.",
+  "priceSeries": [
+    {
+      "date": "2026-01-02",
+      "price": 100.0
+    },
+    {
+      "date": "2026-01-03",
+      "price": 104.0
+    },
+    {
+      "date": "2026-01-04",
+      "price": 98.0
+    },
+    {
+      "date": "2026-01-05",
+      "price": 105.0
+    },
+    {
+      "date": "2026-01-06",
+      "price": 97.0
+    },
+    {
+      "date": "2026-01-07",
+      "price": 106.0
+    },
+    {
+      "date": "2026-01-08",
+      "price": 96.0
+    },
+    {
+      "date": "2026-01-09",
+      "price": 107.0
+    },
+    {
+      "date": "2026-01-10",
+      "price": 95.0
+    },
+    {
+      "date": "2026-01-11",
+      "price": 108.0
+    }
+  ]
+}

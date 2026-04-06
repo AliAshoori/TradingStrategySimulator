@@ -1,0 +1,46 @@
+{
+  "name": "Trending Up Market",
+  "description": "A steadily rising market with minor pullbacks, used to evaluate long-term strategies such as buy-and-hold and to observe how transaction costs affect frequent trading in a bullish environment.",
+  "priceSeries": [
+    {
+      "date": "2026-01-02",
+      "price": 100.0
+    },
+    {
+      "date": "2026-01-03",
+      "price": 101.5
+    },
+    {
+      "date": "2026-01-04",
+      "price": 103.0
+    },
+    {
+      "date": "2026-01-05",
+      "price": 104.0
+    },
+    {
+      "date": "2026-01-06",
+      "price": 106.5
+    },
+    {
+      "date": "2026-01-07",
+      "price": 108.0
+    },
+    {
+      "date": "2026-01-08",
+      "price": 109.5
+    },
+    {
+      "date": "2026-01-09",
+      "price": 111.0
+    },
+    {
+      "date": "2026-01-10",
+      "price": 113.0
+    },
+    {
+      "date": "2026-01-11",
+      "price": 115.0
+    }
+  ]
+}
