@@ -266,11 +266,10 @@ Each dataset includes:
 
 # Example Output
 ### Comparison Table
-
-<img width="1279" height="346" alt="image" src="https://github.com/user-attachments/assets/4c41bdb0-6e42-440f-8ae3-1ae35f0587fe" />
+<img width="1279" height="346" alt="image" src="https://github.com/AliAshoori/TradingStrategySimulator/blob/main/Console-Comparison-Table.PNG" />
 
 ### Detailed Output
-<img width="1290" height="665" alt="image" src="https://github.com/user-attachments/assets/f6fbf191-8ed7-405e-9368-70b238c99eba" />
+<img width="1290" height="665" alt="image" src="https://github.com/AliAshoori/TradingStrategySimulator/blob/main/Console-Detailed-View.PNG" />
 
 
 
